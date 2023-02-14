@@ -1,0 +1,25 @@
+img {
+  height: 280px;
+  border-radius: 15px;
+  float: left;
+  margin-right: 10px;
+}
+
+p.user
+ {
+  font-weight: sans-serif;
+}
+
+p.mdn-a {
+  font-size: 14px;
+}
+
+p.mdn-b {
+  font-size: 14px;
+}
+
+body {
+  background-color: pink;
+  font-family: 'Times New Roman', Times, serif;
+}
+
